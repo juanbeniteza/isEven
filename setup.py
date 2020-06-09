@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
   name = 'isEven',        
   packages = ['isEven'],  
-  version = '0.1.2',     
+  version = '0.1.0',     
   description = 'Simple library to check if a number is even',  
   long_description=open('README.md').read(),
   long_description_content_type='text/markdown',
