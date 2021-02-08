@@ -13,9 +13,9 @@ pip install isEven
 ```
 from isEven import isEven
 
-print(isEven('1')) //=> False
-print(isEven('5')) //=> False
+print(isEven(1)) #=> False
+print(isEven(5)) #=> False
 
-print(isEven(0)) //=> True
-print(isEven(4)) //=> True
+print(isEven(0)) #=> True
+print(isEven(4)) #=> True
 ```
